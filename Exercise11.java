@@ -52,5 +52,27 @@ public class Exercise11{
         //question 14
         //It can run 137 times becase p starts at 9 and adds 1 everytime so just do 145 - 9 + 1 which is 137 so the loop should run 137 times 
 
+        //MCQ 
+        //question 1
+        //A (10) just like uh do the math
+
+        //question 2
+        //C (101) because it goes all the way to 100 and then goes up 1 more because it is < = to meaning it goes up one more time 
+        
+        //question 3
+        //E (None of these) becausae 10.0 becuase p is a double if p was not a double it would be A (10)
+        
+        //question 4
+        //B because it starts at a odd number 1 and adds 2 which means it stays at a odd number till 9 becausae it cant be grader than 10
+        
+        //question 5
+        //D it is an endless loop because it adds 1 then subracts 1 which keeps it on the same number making it an inf loop
+        
+        //question 6
+        //A because that how math works idk how to explain without explaining what simple math is 
+        
+        //question 7
+        //D becase count = 40 and then in the print it does count-- so the value of count is 39 and since first print is print then it prints on the same line 4039 
+
     }
 }
