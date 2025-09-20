@@ -54,15 +54,15 @@ public class Exercise11{
 
         //MCQ 
         //question 1
-        //A (10) just like uh do the math
+        //B (10) just like uh do the math  
 
         //question 2
         //C (101) because it goes all the way to 100 and then goes up 1 more because it is < = to meaning it goes up one more time 
         
-        //question 3
+        //question 3  //// A
         //E (None of these) becausae 10.0 becuase p is a double if p was not a double it would be A (10)
         
-        //question 4
+        //question 4 //// E
         //B because it starts at a odd number 1 and adds 2 which means it stays at a odd number till 9 becausae it cant be grader than 10
         
         //question 5
@@ -75,4 +75,5 @@ public class Exercise11{
         //D becase count = 40 and then in the print it does count-- so the value of count is 39 and since first print is print then it prints on the same line 4039 
 
     }
+
 }
